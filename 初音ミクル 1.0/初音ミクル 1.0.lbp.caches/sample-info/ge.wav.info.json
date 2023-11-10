@@ -1,0 +1,16 @@
+{
+    "name": "ge.wav",
+    "file": "ge.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 75144,
+    "lengthMillis": 1703.9457,
+    "chunkSize": 75144,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032560049,
+    "algorithmVersion": 4
+}

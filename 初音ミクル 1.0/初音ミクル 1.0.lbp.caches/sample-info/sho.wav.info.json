@@ -1,0 +1,16 @@
+{
+    "name": "sho.wav",
+    "file": "sho.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 100016,
+    "lengthMillis": 2267.9365,
+    "chunkSize": 100016,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032560325,
+    "algorithmVersion": 4
+}

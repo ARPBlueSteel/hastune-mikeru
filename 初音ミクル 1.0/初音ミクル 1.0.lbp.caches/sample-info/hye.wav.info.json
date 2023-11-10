@@ -1,0 +1,16 @@
+{
+    "name": "hye.wav",
+    "file": "hye.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 94195,
+    "lengthMillis": 2135.941,
+    "chunkSize": 94195,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032560087,
+    "algorithmVersion": 4
+}

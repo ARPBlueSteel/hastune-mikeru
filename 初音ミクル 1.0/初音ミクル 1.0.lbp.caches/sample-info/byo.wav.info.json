@@ -1,0 +1,16 @@
+{
+    "name": "byo.wav",
+    "file": "byo.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 96841,
+    "lengthMillis": 2195.941,
+    "chunkSize": 96841,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032559973,
+    "algorithmVersion": 4
+}

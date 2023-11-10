@@ -1,0 +1,16 @@
+{
+    "name": "bya.wav",
+    "file": "bya.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 94724,
+    "lengthMillis": 2147.9365,
+    "chunkSize": 94724,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032559968,
+    "algorithmVersion": 4
+}

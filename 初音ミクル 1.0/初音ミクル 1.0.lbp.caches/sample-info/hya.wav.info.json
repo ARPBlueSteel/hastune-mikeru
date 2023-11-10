@@ -1,0 +1,16 @@
+{
+    "name": "hya.wav",
+    "file": "hya.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 102662,
+    "lengthMillis": 2327.9365,
+    "chunkSize": 102662,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032560085,
+    "algorithmVersion": 4
+}

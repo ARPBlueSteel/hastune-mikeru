@@ -1,0 +1,16 @@
+{
+    "name": "tso.wav",
+    "file": "tso.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 86786,
+    "lengthMillis": 1967.9365,
+    "chunkSize": 86786,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032560364,
+    "algorithmVersion": 4
+}

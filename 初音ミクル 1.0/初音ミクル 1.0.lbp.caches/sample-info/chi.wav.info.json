@@ -1,0 +1,16 @@
+{
+    "name": "chi.wav",
+    "file": "chi.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 92078,
+    "lengthMillis": 2087.9365,
+    "chunkSize": 92078,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032559999,
+    "algorithmVersion": 4
+}

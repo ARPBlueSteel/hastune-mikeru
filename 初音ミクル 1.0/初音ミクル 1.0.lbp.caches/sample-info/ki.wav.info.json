@@ -1,0 +1,16 @@
+{
+    "name": "ki.wav",
+    "file": "ki.wav",
+    "sampleRate": 16000.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 15980,
+    "lengthMillis": 998.75,
+    "chunkSize": 15980,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1678934891431,
+    "algorithmVersion": 4
+}

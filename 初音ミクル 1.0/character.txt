@@ -1,0 +1,6 @@
+name=Hatsune Mikeru 1.0
+author=Haj-P
+web=https://www.youtube.com/watch?v=dQw4w9WgXcQ
+image=image.bmp
+sample=‚­.wav
+version=1.0

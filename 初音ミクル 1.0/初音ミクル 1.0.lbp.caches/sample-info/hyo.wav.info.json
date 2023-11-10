@@ -1,0 +1,16 @@
+{
+    "name": "hyo.wav",
+    "file": "hyo.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 110600,
+    "lengthMillis": 2507.9365,
+    "chunkSize": 110600,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032560090,
+    "algorithmVersion": 4
+}

@@ -1,0 +1,16 @@
+{
+    "name": "je.wav",
+    "file": "je.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 93666,
+    "lengthMillis": 2123.9456,
+    "chunkSize": 93666,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032560097,
+    "algorithmVersion": 4
+}

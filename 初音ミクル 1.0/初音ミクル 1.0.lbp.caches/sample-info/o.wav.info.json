@@ -1,0 +1,16 @@
+{
+    "name": "o.wav",
+    "file": "o.wav",
+    "sampleRate": 16000.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 12439,
+    "lengthMillis": 777.4375,
+    "chunkSize": 12439,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1678934854419,
+    "algorithmVersion": 4
+}

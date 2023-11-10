@@ -1,0 +1,16 @@
+{
+    "name": "mi.wav",
+    "file": "mi.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 85728,
+    "lengthMillis": 1943.9456,
+    "chunkSize": 85728,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032560154,
+    "algorithmVersion": 4
+}

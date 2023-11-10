@@ -1,0 +1,16 @@
+{
+    "name": "ku.wav",
+    "file": "ku.wav",
+    "sampleRate": 16000.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 15294,
+    "lengthMillis": 955.875,
+    "chunkSize": 15294,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1678934865136,
+    "algorithmVersion": 4
+}

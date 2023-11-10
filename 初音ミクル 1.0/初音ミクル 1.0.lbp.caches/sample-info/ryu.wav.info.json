@@ -1,0 +1,16 @@
+{
+    "name": "ryu.wav",
+    "file": "ryu.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 97370,
+    "lengthMillis": 2207.9365,
+    "chunkSize": 97370,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032560310,
+    "algorithmVersion": 4
+}

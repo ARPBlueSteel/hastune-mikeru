@@ -1,0 +1,16 @@
+{
+    "name": "tsa.wav",
+    "file": "tsa.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 84140,
+    "lengthMillis": 1907.9364,
+    "chunkSize": 84140,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032560357,
+    "algorithmVersion": 4
+}

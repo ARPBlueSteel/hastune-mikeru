@@ -1,0 +1,16 @@
+{
+    "name": "si.wav",
+    "file": "si.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 118538,
+    "lengthMillis": 2687.9365,
+    "chunkSize": 118538,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032560330,
+    "algorithmVersion": 4
+}

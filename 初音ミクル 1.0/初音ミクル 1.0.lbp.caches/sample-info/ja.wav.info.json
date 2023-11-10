@@ -1,0 +1,16 @@
+{
+    "name": "ja.wav",
+    "file": "ja.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 78319,
+    "lengthMillis": 1775.941,
+    "chunkSize": 78319,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032560094,
+    "algorithmVersion": 4
+}

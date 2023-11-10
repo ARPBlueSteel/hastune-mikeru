@@ -1,0 +1,16 @@
+{
+    "name": "ke.wav",
+    "file": "ke.wav",
+    "sampleRate": 16000.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 14941,
+    "lengthMillis": 933.8125,
+    "chunkSize": 14941,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1678934958384,
+    "algorithmVersion": 4
+}

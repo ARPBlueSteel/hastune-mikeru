@@ -1,0 +1,16 @@
+{
+    "name": "tsi.wav",
+    "file": "tsi.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 96312,
+    "lengthMillis": 2183.9456,
+    "chunkSize": 96312,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032560361,
+    "algorithmVersion": 4
+}

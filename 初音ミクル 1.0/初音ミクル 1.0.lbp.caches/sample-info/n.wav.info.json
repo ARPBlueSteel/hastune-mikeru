@@ -1,0 +1,16 @@
+{
+    "name": "n.wav",
+    "file": "n.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 100546,
+    "lengthMillis": 2279.9546,
+    "chunkSize": 100546,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032560178,
+    "algorithmVersion": 4
+}

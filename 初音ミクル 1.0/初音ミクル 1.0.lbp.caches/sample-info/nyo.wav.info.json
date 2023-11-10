@@ -1,0 +1,16 @@
+{
+    "name": "nyo.wav",
+    "file": "nyo.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 104779,
+    "lengthMillis": 2375.941,
+    "chunkSize": 104779,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032560223,
+    "algorithmVersion": 4
+}

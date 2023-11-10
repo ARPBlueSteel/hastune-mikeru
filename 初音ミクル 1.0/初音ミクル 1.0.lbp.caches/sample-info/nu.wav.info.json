@@ -1,0 +1,16 @@
+{
+    "name": "nu.wav",
+    "file": "nu.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 91549,
+    "lengthMillis": 2075.9412,
+    "chunkSize": 91549,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032560215,
+    "algorithmVersion": 4
+}

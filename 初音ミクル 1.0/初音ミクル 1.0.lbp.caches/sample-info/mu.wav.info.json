@@ -1,0 +1,16 @@
+{
+    "name": "mu.wav",
+    "file": "mu.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 89432,
+    "lengthMillis": 2027.9364,
+    "chunkSize": 89432,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032560160,
+    "algorithmVersion": 4
+}

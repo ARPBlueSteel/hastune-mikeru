@@ -1,0 +1,16 @@
+{
+    "name": "so.wav",
+    "file": "so.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 79378,
+    "lengthMillis": 1799.9547,
+    "chunkSize": 79378,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032560332,
+    "algorithmVersion": 4
+}

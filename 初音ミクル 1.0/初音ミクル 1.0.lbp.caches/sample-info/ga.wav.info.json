@@ -1,0 +1,16 @@
+{
+    "name": "ga.wav",
+    "file": "ga.wav",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 86257,
+    "lengthMillis": 1955.941,
+    "chunkSize": 86257,
+    "chunkCount": 1,
+    "hasSpectrogram": true,
+    "lastModified": 1679032560047,
+    "algorithmVersion": 4
+}
