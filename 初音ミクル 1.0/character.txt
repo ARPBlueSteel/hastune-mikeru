@@ -1,6 +1,8 @@
-name=Hatsune Mikeru 1.0
+name=初音ミクル 
 author=Haj-P
-web=https://www.youtube.com/watch?v=dQw4w9WgXcQ
-image=image.bmp
-sample=く.wav
-version=1.0
+image=profile.bmp
+sample=a.wav
+性別:男　年齢:19歳
+-------------------------:
+web:https://github.com/ARPBlueSteel
+初音ミクル :(C) Haj-P & some_what_random 2024 All Rights Reserved.

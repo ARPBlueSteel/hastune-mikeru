@@ -1,14 +1,14 @@
-Thank you for downloading Hatsune Mikeru 初音ミクル ! A high school project by Haj-P and some_what_random, as part of a larger collaboration with abodudaday#6308, noisymarc, and asleep#4973.
+Thank you for downloading Hatsune Mikeru ! A high school project by Haj-P and some_what_random
 
 NOTE: Please see user agreement before use of this voicebank.
 
 VERSION HISTORY
-Version 1.0
+Version 2.0
 Standard Japanese CV voicebank
 
 PROFILE
 Name: 初音ミクル
-Gender: Male
+Gender: Male
 Language: Japanese
 Voiced by: some_what_random
 
@@ -28,6 +28,6 @@ Disclaimer:
 We(Haj-P and some_what_random) hold no responsibility to any incidents, damage, or loss by the user from downloading or using the voicebank or character.
 We hold no responsibility to any incidents, damage, or loss that occurs to any third party as a result of usage of the voicebank or character.
 
-If you have any questions, please contact the voicebank author: leonidas98735698@gmail.com or michael20060406@gmail.com
+If you have any questions, please contact the voicebank author: leonidas98735698@gmail.com
 
-Copyright Hatsune Mikeru 2023
+Copyright Haj-P 2024
